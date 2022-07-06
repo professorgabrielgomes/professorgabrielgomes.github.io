@@ -1,0 +1,45 @@
+<html>
+<meta charset="utf-8">
+    <head>
+        <h1 style="color:white;" align="center">Gabriel Gomes</h1>
+        <img src="gabriel_gomes_figueiredo_1.png" height="30%" width=15%" align="left"></>
+        <title>Gabriel Gomes</title>
+    </head>
+ 
+    <body style="background-color:black;">
+    
+            <h2 style="color:white;" align="center">Short Bio</h2>
+        
+            <p style="color:white;" align="center">He began the graduation at the Federal University of Espírito Santo (UFES) after managing to transfer to the Federal Fluminense University (UFF) in which in 2015 starts to continue their studies in the Bachelor's Degree in Mathematics. In the same year he was made the Summer Course at the Institute of Pure and Applied Mathematics (IMPA) in Algebra area Linear.No time is Scientific Initiation student of the Institute of Pure and Applied Mathematics (IMPA) studying the matter of Algebra 1 by Master at the sae institution and having already taken Combinatorics 1 and Seminars Research , also in Master in IMPA.</p>
+ 
+            <br></br>
+ 		
+            <b><p style="color:white;" align="center">Colégio Naval e EpCar</p></b>
+
+ 	    <br></br>
+ 		
+            <b><p style="color:white;" align="center">EsPCEx</p></b>
+ 	    
+	    <br></br>
+ 		
+            <b><p style="color:white;" align="center">Escola Naval, AFA e EFOMM</p></b>
+	    
+            <br></br>
+ 		
+            <b><p style="color:white;" align="center">IME e ITA</p></b>
+
+
+ 
+        <h2 style="color:white;" align="center">Contact</h2>
+            
+            <p style="color:white;" align="center">gabrielfigueiredo@id.uff.br</p>
+ 
+      </body>
+ 
+    <footer>
+        <p style="color:white;"> Feito por: Gabriel Gomes</p>
+        <p style="color:white;"> E-mail: <a style="color:white;" href="mailto:gabrielfigueiredo@id.uff.br"> gabrielfigueiredo@id.uff.br </a> </p>
+ 
+ 
+    </footer>
+</html>
