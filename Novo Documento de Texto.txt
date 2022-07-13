@@ -229,10 +229,10 @@ function MM_swapImage() { //v3.0
 
 
 
-<body onLoad="MM_preloadImages('gabriel.jpg')">
+<body onLoad="MM_preloadImages('gabriel(1).jpg')">
 
-<a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('photo','center','gabriel.jpg',1)">
-<img src="gabriel.jpg" alt="photo" name="photo"  border="20"> </a>
+<a onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('photo','','gabriel(1).jpg',1)">
+<img src="gabriel(1).jpg" alt="photo" name="photo"  border="20"> </a>
 
 
 
