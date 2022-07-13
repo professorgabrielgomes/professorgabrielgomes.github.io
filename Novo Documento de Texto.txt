@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//PT">
 <html>
 <head>
 
@@ -11,7 +11,7 @@
 
     html body {
         font-family: 'Raleway', sans-serif;
-        background-color: black;
+        background-color: white;
     }
 
     :root {
